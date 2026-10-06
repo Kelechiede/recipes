@@ -1,1 +1,4 @@
-# Market A\n* avocado: $1.99\n* lime: $0.29
+# Market A
+* avocado: $1.99
+* lime: $0.29
+* tomato: $0.99
